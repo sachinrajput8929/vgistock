@@ -1,0 +1,1 @@
+[15-Dec-2023 11:36:41 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ewx7upyjsani/public_html/ems.vgigroup.co.in/vgi_stock/include/config.php on line 8
