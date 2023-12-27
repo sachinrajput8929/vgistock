@@ -41,7 +41,7 @@ if (isset($_POST['submit'])) {
      <title>VGI Stock Login</title>
       <?php include_once('include/css.php'); ?>
    </head>
-   <!-- <body class="inner_page login">
+   <body class="inner_page login">
       <div class="full_container">
          <div class="container">
             <div class="center verticle_center full_height">
@@ -77,5 +77,5 @@ if (isset($_POST['submit'])) {
          </div>
       </div>
       
-   </body> -->
+   </body>
 </html>
